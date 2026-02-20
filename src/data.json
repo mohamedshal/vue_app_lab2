@@ -1,0 +1,35 @@
+{
+  "mainProduct": {
+    "id": 1,
+    "name": "Cozy Sneakers",
+    "description": "High-quality sneakers that go with everything you wear.",
+    "image": "./assets/images/ec0101378_left_feed1000.avif",
+    "badge": "NEW",
+    "price": 120,
+    "discount": 20,
+    "tags": ["Fashion", "Casual", "Sport"]
+  },
+  "relatedProducts": [
+    {
+      "id": 2,
+      "name": "Running Shoes",
+      "price": 90,
+      "discount": 10,
+      "image": "./assets/images/np-198309-mfach00534-boot-camel-0.webp"
+    },
+    {
+      "id": 3,
+      "name": "Casual Boots",
+      "price": 150,
+      "discount": 5,
+      "image": "./assets/images/np-224721-mfach00717-beige-0.webp"
+    },
+    {
+      "id": 4,
+      "name": "Flip Flops",
+      "price": 30,
+      "discount": 50,
+      "image": "./assets/images/P01049356.avif"
+    }
+  ]
+}
